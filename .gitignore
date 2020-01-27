@@ -61,7 +61,7 @@ typings/
 .next
 
 # text editors
-#.vscode
+.vscode
 
 # output folder
-# dist
+dist
